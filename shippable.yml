@@ -8,3 +8,5 @@ script:
  - git status
  - echo -e "\n## New line!" >> foo/README.md
  - git status
+ - mkdir fizzbin
+ - touch fizzbin/test.txt
