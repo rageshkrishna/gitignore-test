@@ -6,3 +6,5 @@ script:
  - git status
  - touch foo/test.txt
  - git status
+ - echo -e "\n## New line!" >> foo/README.md
+ - git status
