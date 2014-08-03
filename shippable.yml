@@ -10,3 +10,4 @@ script:
  - git status
  - mkdir fizzbin
  - touch fizzbin/test.txt
+ - git status
